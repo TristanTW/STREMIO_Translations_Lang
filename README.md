@@ -1,3 +1,4 @@
 Translation credits :
 
-zht-TW: @bloodstone28 (Chinese)
+zh-CN: @bloodstone28 (Traditional Chinese)
+zh-TW: @bloodstone28 (Simplified  Chinese)
